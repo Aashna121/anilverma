@@ -1,0 +1,35 @@
+body{
+  background-color:black; 
+    text-align: center;
+}
+h1{
+    color: cyan;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px
+}
+img{
+    border:solid 10px coral;
+}
+.papa{
+    display: flex;
+}
+.paragraph{
+    font-size: 22px;
+    color:aqua;
+    
+    
+}
+#ad{
+    margin-top: 50px;
+    margin-left: 100px;
+    color:coral;
+    margin-right: 100px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+#alone{
+    margin-left: 100px;
+    border-radius: 75%;
+}
